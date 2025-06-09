@@ -1,0 +1,7 @@
+Matplotlib
+
+pandas
+
+seaborn
+
+scikit-learn
